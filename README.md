@@ -9,7 +9,7 @@ Provide Mongo-like syntax for creating queries to Doctrine QueryBuilder
 #### Install via composer
 
 ```
-$ composer require devimteam/jsonquery-provider
+$ composer require devimteam/json-query-provider
 ```
 
 ## Use-cases
