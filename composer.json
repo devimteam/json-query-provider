@@ -1,5 +1,5 @@
 {
-  "name": "devimteam/jsonquery-provider",
+  "name": "devimteam/json-query-provider",
   "description": "Silex JSON Query Doctrine service provider",
   "minimum-stability": "stable",
   "version": "1.0",
