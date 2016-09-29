@@ -1,0 +1,23 @@
+actor: Tester
+paths:
+    tests: tests
+    log: tests/_output
+    data: tests/_fixtures
+    support: tests/_support
+    envs: tests/_envs
+settings:
+    bootstrap: _bootstrap.php
+    colors: true
+    logs: false
+    memory_limit: 2048M
+    error_level: "E_ALL & ~E_WARNING"
+extensions:
+    enabled:
+        - Codeception\Extension\RunFailed
+coverage:
+    c3_url: 'http://web'
+    enabled: true
+    whitelist:
+        include:
+            - src/*
+        exclude:
