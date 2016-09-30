@@ -1,6 +1,6 @@
 <?php
 
-namespace Devimteam\Provider\JsonQueryServiceProvider;
+namespace Devim\Provider\JsonQueryServiceProvider;
 
 use Doctrine\DBAL\Types\Type;
 use Doctrine\ORM\Mapping\ClassMetadata;

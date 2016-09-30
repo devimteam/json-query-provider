@@ -4,7 +4,7 @@
   "minimum-stability": "stable",
   "autoload" : {
     "psr-4": {
-      "Devimteam\\Provider\\JsonQueryServiceProvider\\": "src/"
+      "Devim\\Provider\\JsonQueryServiceProvider\\": "src/"
     }
   },
   "require": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Devimteam\Provider\JsonQueryServiceProvider;
+namespace Devim\Provider\JsonQueryServiceProvider;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

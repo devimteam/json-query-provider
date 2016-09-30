@@ -1,6 +1,6 @@
 <?php
 
-use Devimteam\Provider\JsonQueryServiceProvider\JsonQueryService;
+use Devim\Provider\JsonQueryServiceProvider\JsonQueryService;
 use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\Tools\Setup;
 
