@@ -2,7 +2,6 @@
   "name": "devimteam/json-query-provider",
   "description": "Silex JSON Query Doctrine service provider",
   "minimum-stability": "stable",
-  "version": "1.0",
   "autoload" : {
     "psr-4": {
       "Devimteam\\Provider\\JsonQueryServiceProvider\\": "src/"
