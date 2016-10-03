@@ -1,5 +1,8 @@
 {
-  "name": "devimteam/json-query-provider",
+  "name": "devimteam/silex-json-query-provider",
+  "replace": {
+    "devimteam/json-query-provider": "dev-master"
+  },
   "description": "Silex JSON Query Doctrine service provider",
   "minimum-stability": "stable",
   "autoload" : {
